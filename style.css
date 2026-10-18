@@ -1,0 +1,29 @@
+.centre-text {
+  text-align: center;
+  justify-content: center;
+}
+.table {
+  vertical-align: top;
+  border: 2px solid black;
+  width: 100%;
+  border-collapse: collapse;
+}
+.table-left {
+  vertical-align: top;
+  width: 25%;
+  border: 2px solid black;
+}
+.table-top {
+  vertical-align: top;
+  width: 40%;
+  border: 2px solid black;
+}
+.table-right {
+  vertical-align: top;
+  width: 35%;
+  border: 2px solid black;
+}
+.left li {
+  text-align: left;
+  justify-content: left;
+}
